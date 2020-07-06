@@ -1,0 +1,26 @@
+{
+  "name": "follow-moi",
+  "version": "1.0.0",
+  "description": "An App that lets you track your activity",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shemal37/Follow-Moi.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shemal37/Follow-Moi/issues"
+  },
+  "homepage": "https://github.com/shemal37/Follow-Moi#readme",
+  "dependencies": {
+    "bcrypt": "^5.0.0",
+    "express": "^4.17.1",
+    "jsonwebtoken": "^8.5.1",
+    "mongoose": "^5.9.21",
+    "nodemon": "^2.0.4"
+  }
+}
